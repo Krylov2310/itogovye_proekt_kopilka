@@ -1,4 +1,4 @@
-># itogovye_proekt_kopilka
+# itogovye_proekt_kopilka
 >### Итоговый проект 1
 >### "Копилка"
 >### Студент Крылов Эдуард Васильевич
