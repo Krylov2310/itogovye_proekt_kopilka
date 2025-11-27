@@ -1,0 +1,39 @@
+{
+  "categories": [
+    "Работа",
+    "Здоровье",
+    "Образование",
+    "Путешествия",
+    "Дом",
+    "Другое"
+  ],
+  "goals": [
+    {
+      "name": "1",
+      "target_amount": 1000.0,
+      "current_balance": 0.0,
+      "category": "Дом",
+      "status": "отменена",
+      "start_date": "2025-11-27",
+      "completion_date": null
+    },
+    {
+      "name": "2",
+      "target_amount": 50555.0,
+      "current_balance": 50555.0,
+      "category": "Здоровье",
+      "status": "выполнена",
+      "start_date": "2025-11-27",
+      "completion_date": "2025-11-27"
+    },
+    {
+      "name": "3",
+      "target_amount": 400.0,
+      "current_balance": 200.0,
+      "category": "Образование",
+      "status": "активна",
+      "start_date": "2025-11-27",
+      "completion_date": null
+    }
+  ]
+}
